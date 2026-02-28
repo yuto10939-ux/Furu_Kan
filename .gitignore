@@ -1,0 +1,12 @@
+# Environments
+venv/
+env/
+.env
+.venv
+__pycache__/
+
+# Streamlit secrets (CRITICAL: Do not commit!)
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
